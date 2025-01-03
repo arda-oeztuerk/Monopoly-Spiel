@@ -1,6 +1,6 @@
 # Monopoly-Game
 
-A ASCII text-based implementation of the classic Monopoly board game, written in pure C.
+An ASCII text-based implementation of the classic Monopoly board game, written in pure C.
 
 ## Features
 
